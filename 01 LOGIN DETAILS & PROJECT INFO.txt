@@ -1,0 +1,22 @@
+**Log in deatils  **
+
+**Database Name: rposystem**
+
+**Developed by Mrunal & Kriti**
+
+**Recommended PHP Version 7.4**
+
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password:  codeastro.com
+
+**Cashier Login Details**
+
+Email	: cashier@mail.com
+Password:  codeastro.com 
+
+
+
+
